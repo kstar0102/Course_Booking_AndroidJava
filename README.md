@@ -1,21 +1,3 @@
-# PLACEHOLDER
-
-This is our [User Guide][user_guide_link]
-
-[user_guide_link]: https://docs.google.com/document/d/1FMXvJDfR317MMvIS8GhGa767Y2BGIKwghsiiBjQqe7o/edit?usp=sharing
-
-This is our [Developer Documentation][developer_documentation_link]
-
-[developer_documentation_link]: https://docs.google.com/document/d/1rDCk5b-37iUtC_ukMMJ9mBYUjD_7yZ-IznuXTgZLnm4/edit?usp=sharing
-
-This is our [Video Demo][video_demo_link]
-
-[video_demo_link]: https://youtu.be/prnHBllxngA
-
-This is the [Entity-Relationship Diagram][er_diagram] of our application
-
-[er_diagram]: https://drive.google.com/file/d/1Wu5GDG2Y-l6dHqrbQRWGOF2S_3v68o44/view?usp=sharing
-
 
 **Project scope:**
 
@@ -168,71 +150,6 @@ Testing log:
 9. As for the admin activities, we also faced a privacy issue. As admins could look up the using history of a certain seat. Users might not want admins to directly see their student numbers by looking up the history of a certain seat. Thus, we let admins only see user IDs instead of user names. We have also rewrite the user searching activity so that admins can also deduct points of a certain user if either user ID or user name is known.
 10. For the UI of the application. At first, we used the default UI design, however, we found that a darker UI seems to be a better design. The dark colour theme looks better. Thus we tried out different colour combinations and decided to implement the dark colour theme instead.
 
-
-**Qualitative testing:**
-
-The qualitative testing aims to evaluate the user experience of the application and find potential space for improvement by collecting data using a pre survey form and post survey form. 
-The pre survey form requires the user to indicate the problems they encountered in campus study space, as well as their demand and expectation for an application that aims to solve these problems. The consent for collection of personal information is given by the users at the beginning of the pre survey form.
-The post survey form aims to collect information regarding the user experience and suggestions on how the application can be improved. 
-
-*Result and analysis:*
-
-Pre survey:
-
-1.
-![picture](images/picture27.png)
-The tested users come from School of Computing, Faculty of Engineering, and Business School. This may introduce some biases since the demand for study space in University Town may differ among faculties.
-
-2.
-![picture](images/picture28.png)
-Over half of the tested users are freshmen.
-
-3.
-![picture](images/picture29.png)
-The statistics show that the most of the users have demand for using the study space in University Town.
-
-4.
-![picture](images/picture30.png)
-Most of the users seem to have encountered difficulties in finding available seats. The possible reasons can be overcrowdedness and seat chopping.
-
-5.
-![picture](images/picture31.png)
-Most of the users indicate that they have encountered seat chopping at a relevant frequency. Combined with question  3 and question 4, it can be seen that there seems to be a high demand for a study space booking application, which can prevent the problems of seat chopping and making it easier to find seats. 
-
-6.
-![picture](images/picture32.png)
-Half of the users have encountered equipment maintenance problems in the study space, which is a quite significant percentage. This indicates that there is a real need for an application that allows users to submit problem reports.
-
-7.
-![picture](images/picture33.png)
-Almost all the users agree that seat finding and seat booking is necessary, which verifies the high demand for the seat booking functionality. Additionally, most of the users agree that the problem report functionality is necessary, which shows a relevant need for users to be able submit report in the application.
-
-8.
-![picture](images/picture34.png)
-Most of the users agree to use the application for study space booking on campus.
-
-Post survey:
-
-1.
-![picture](images/picture35.png)
-All the users agree that it is easy to get started with the application.
-
-2.
-![picture](images/picture36.png)
-All if the users gave a rate of 7 or higher. Most of the users give high ratings because they think the seat booking functionality is useful and convenient, as indicated in the comment section of this question.
-
-3.
-![picture](images/picture37.png)
-All of the users gave a rating of 7 or higher. Most of the users think the problem report functionality gives the study space managers a brief and comprehensive description of the maintenance problem as indicated in the comment section of this question. 
-
-4.
-![picture](images/picture38.png)
-Nearly half of the users think that the user interface can be better. Many of them suggested that an alternative colour palette, such as the NUS palette.
-Some of the users also think that the user interface for the authentication can be improved. 
-
-5.
-![picture](images/picture39.png)
-All of the users gave a rating of 7 or higher. Most of the users think the application is useful. Some of the users suggested additional features such as user profile and customized user photo. There are also suggestions on the user interface regarding the color palette and alignment as indicated in the comment section of this question.
 
 *Summary:*
 
